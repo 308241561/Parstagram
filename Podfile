@@ -8,7 +8,7 @@ target 'Parstagram' do
   # Add Parse pods and install
   pod 'Parse' # added on mar 18 2022 copied from codepath website
  	pod 'AlamofireImage' # added on mar 18 2022 copied from codepath website
-
+  pod 'Parse'
   # Pods for Parstagram
 
   target 'ParstagramTests' do
