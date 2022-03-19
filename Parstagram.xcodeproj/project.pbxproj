@@ -13,6 +13,7 @@
 		FD23DC8D27E55D37001F300B /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD23DC8C27E55D37001F300B /* LoginViewController.swift */; };
 		FD23DC8F27E55D52001F300B /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD23DC8E27E55D52001F300B /* FeedViewController.swift */; };
 		FD23DC9127E5828D001F300B /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD23DC9027E5828D001F300B /* CameraViewController.swift */; };
+		FD617E7A27E5A93100C01AF0 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD617E7927E5A93100C01AF0 /* PostCell.swift */; };
 		FDE8D3B527E55439009866C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDE8D3B427E55439009866C2 /* AppDelegate.swift */; };
 		FDE8D3B727E55439009866C2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDE8D3B627E55439009866C2 /* SceneDelegate.swift */; };
 		FDE8D3BC27E55439009866C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDE8D3BA27E55439009866C2 /* Main.storyboard */; };
@@ -53,6 +54,7 @@
 		FD23DC8C27E55D37001F300B /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		FD23DC8E27E55D52001F300B /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		FD23DC9027E5828D001F300B /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		FD617E7927E5A93100C01AF0 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		FDE8D3B127E55439009866C2 /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDE8D3B427E55439009866C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FDE8D3B627E55439009866C2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 				FD23DC8C27E55D37001F300B /* LoginViewController.swift */,
 				FD23DC8E27E55D52001F300B /* FeedViewController.swift */,
 				FD23DC9027E5828D001F300B /* CameraViewController.swift */,
+				FD617E7927E5A93100C01AF0 /* PostCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -417,6 +420,7 @@
 				FDE8D3B527E55439009866C2 /* AppDelegate.swift in Sources */,
 				FD23DC8F27E55D52001F300B /* FeedViewController.swift in Sources */,
 				FDE8D3B727E55439009866C2 /* SceneDelegate.swift in Sources */,
+				FD617E7A27E5A93100C01AF0 /* PostCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
