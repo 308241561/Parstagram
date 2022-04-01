@@ -9,6 +9,7 @@ target 'Parstagram' do
   pod 'Parse' # added on mar 18 2022 copied from codepath website
  	pod 'AlamofireImage' # added on mar 18 2022 copied from codepath website
   pod 'Parse'
+  pod 'MessageInputBar'
   # Pods for Parstagram
 
   target 'ParstagramTests' do
